@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pingvini.jpg</file>
+        <file>pozadina.jpg</file>
+        <file>about_game.jpg</file>
+        <file>ab_game3.jpg</file>
+        <file>muzikaZaIgru.mpga</file>
+        <file>imePrezime.jpeg</file>
+        <file>imePrManja.jpg</file>
+        <file>igrac.jpg</file>
+    </qresource>
+</RCC>
